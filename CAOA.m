@@ -1,3 +1,8 @@
+%%% The reference for main algorithm 
+%%% Copyright (c) 2020, Fatma A. Hashim, Kashif Hussain, Essam H. Houssein, Mai S. Mabrouk, and Walid Al-Atabany, 
+%%% Archimedes optimization algorithm: A new metaheuristic algorithm for solving optimization problems, 
+%%% Applied Intelligence, Springer
+
 
 %%%%%%%%%%%%%%%%%%%%%%%% Chaotic AOA (CAOA)
 
