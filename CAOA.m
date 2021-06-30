@@ -4,7 +4,6 @@
 %%% Applied Intelligence, Springer
 
 %% All rights reserved.
-
 %% Redistribution and use in source, with or without
 %% modification, are permitted considering the conditions below:
 
